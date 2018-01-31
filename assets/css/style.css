@@ -39,3 +39,18 @@ body {
 p {
     font-family: sans-serif;
 }
+.contact-link {
+    float: right;
+    font-size: 40px;
+    padding: 25px;
+}
+.portfolio-link {
+    float: right;
+    font-size: 40px;
+    padding: 25px;
+}
+.about-link {
+    float: right;
+    font-size: 40px;
+    padding: 25px;
+}
