@@ -1,12 +1,16 @@
 header {
     display: block;
     background: white;
+    color: lightseagreen;
 }
 h1 {
     background: lightseagreen;
     color: white;
     height: 100px;
     width: 300px;
+    margin-left: 65px;
+    text-align: center;
+    font-size: 40px;
 }
 h2 {
     color: lightseagreen;
