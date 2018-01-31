@@ -1,0 +1,35 @@
+header {
+    display: block;
+    background: white;
+}
+h1 {
+    float: left;
+    background: lightseagreen;
+    color: white;
+}
+h2 {
+    color: lightseagreen;
+}
+.top-box {
+    background: white;
+    height: 100px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.left-box {
+    width: 40%;
+    float: left;
+    background: white;
+    padding: 30px;
+    margin-left: 50px;
+    margin-top: 125px;
+}
+.right-box {
+    float: left;
+    height: 250px;
+    width: 40%;
+}
+body {
+    background-image: url(https://images.blogthings.com/whatpatternisyourbrainquiz/pattern-2.jpg);
+}
