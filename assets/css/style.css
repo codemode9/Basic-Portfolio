@@ -3,19 +3,13 @@ header {
     background: white;
 }
 h1 {
-    float: left;
     background: lightseagreen;
     color: white;
+    height: 100px;
+    width: 300px;
 }
 h2 {
     color: lightseagreen;
-}
-.top-box {
-    background: white;
-    height: 100px;
-    width: 100%;
-    margin: 0;
-    padding: 0;
 }
 .left-box {
     width: 40%;
